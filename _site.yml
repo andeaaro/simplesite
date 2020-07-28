@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: "Research/Work"
       href: research.html
     - text: "GIS"
       href: gis.html
@@ -14,3 +14,23 @@ navbar:
     - text: "Contact/CV"
       href: about.html
       
+  right:
+    - icon: fa-github
+      href: https://github.com/andeaaro
+    - icon: fa-envelope
+      href: mailto:andeaaro@oregonstate.edu
+    - icon: fa-twitter
+      href: https://twitter.com/wiltedartichoke
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: _footer.html
+    css: ../styles.css
+    self_contained: false
+
+
+
+  
