@@ -1,0 +1,16 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Aaron Anderson"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "GIS"
+      href: gis.html
+    - text: "Writing"
+      href: writing.html
+    - text: "Contact/CV"
+      href: about.html
+      
