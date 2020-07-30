@@ -24,10 +24,11 @@ navbar:
 
 output:
   html_document:
+    theme: cosmo
     highlight: textmate
     include:
       after_body: _footer.html
-    css: ../styles.css
+    css: styles.css
     self_contained: false
 
 
