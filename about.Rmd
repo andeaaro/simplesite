@@ -4,7 +4,7 @@ title: "CV and Contact Information"
 ***
 <br>
 
-### [**Aaron Anderson CV - *July 2020***](C:\Users\Aaron\Documents\GitHub\simplesite\simplesite\Anderson_CV.pdf)
+### [**Aaron Anderson CV - *July 2020***](Anderson_CV.pdf)
 
 <br>
 
