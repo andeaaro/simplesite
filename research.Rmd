@@ -14,6 +14,8 @@ To address this question in the Pacific Northwest, from 2017-2019 I ran a large 
 <br>
 
 ## Constructing a database of biocontrol agents released against insect pests
+The United States has a long history of utilizing classical biological control against exotic insect pests. In fact, the first ever biological control effort was implemented in California from 1877-1879 against the cottony cushion scale (*Icerya purchasi*). The release of two foreign natural enemies resulted in the near elimination of this pest in California citrus, and was considered an incredible economic success. Over the subsequent years, more and more natural enemies were imported in mass quantities to combat exotic pests that global trade and travel introduced. However, the United States has lacked a cohesive record keeping system of natural enemy introductions that target insect pests. Releases against weeds have been much better documented, likely due to heightened concerns over non-target impacts (in partular fears that agents might consme crop plants). Because of this, summary information on classical biological control programs is correspondingly deficient.  
+At Colorado State University, I constructed a databse of biocontrol agents released against insect pests in the United States, with the goal of producing a resource that contains information incuding species names, target hosts, soure location, release location, and any information on establishment and effiacy. This information will hopefully be useful to researchers and practitioners in the field going forward.
 
 <br>
 
@@ -25,6 +27,6 @@ Working in Dr. Ann Hajek's lab, I assisted studies on biological control of the 
 <br>
 
 ## Ecological restoration and outreach
-
+I have worked doing habitat restoration, monitoring, and outreach for two different Federally Endangered butterflies - the Karner blue butterfly and Mission blue butterfly. Though their native ranges are on different sides of the country, both of these small blue Lycaenidae have similar life histories and are faced with similar threats to their habitats and obligate host plants (both utilize only certain lupine species), including altered fire regimes, invasive vegetation pressure, and habitat loss/fragmentation. 
 <br>
   
